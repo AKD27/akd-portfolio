@@ -1,3 +1,4 @@
+"use client";
 import { companies, testimonials } from '@/data'
 import React from 'react'
 import { InfiniteMovingCards } from './ui/InfinityMovingCard'

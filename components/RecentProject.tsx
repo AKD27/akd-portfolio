@@ -1,3 +1,4 @@
+"use client";
 import { projects } from '@/data'
 import React from 'react'
 import { FaLocationArrow } from "react-icons/fa6";
