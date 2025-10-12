@@ -1,7 +1,7 @@
 "use client";
 import { companies, testimonials } from '@/data'
 import React from 'react'
-import { InfiniteMovingCards } from './ui/InfinityMovingCard'
+import { InfiniteMovingCards } from './ui/InfinityMovingCard';
 
 const Client = () => {
   return (

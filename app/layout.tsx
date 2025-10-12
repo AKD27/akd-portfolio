@@ -17,7 +17,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <link rel="icon" href="/jsm-logo.png" sizes="any" />
+      <link rel="icon" href="" sizes="any" />
       <body className={inter.className}> <ThemeProvider
           attribute="class"
           defaultTheme="dark"
